@@ -6,7 +6,7 @@ C++ with the accompanying derivation in `notes.tex`.
 
 ## Results
 
-With `S0 = K = 100`, `r = 5%`, `sigma = 20%`, `T = 1`, two million paths:
+ `S0 = K = 100`, `r = 5%`, `sigma = 20%`, `T = 1`, two million paths
 
 ```
 European call
