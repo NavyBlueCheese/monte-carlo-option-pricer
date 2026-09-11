@@ -1,4 +1,4 @@
-# monte-carlo-option-pricer
+# monte carlo options pricer
 
 Monte Carlo pricing of European and arithmetic-average Asian call options in
 C++ with the accompanying derivation in `notes.tex`.
